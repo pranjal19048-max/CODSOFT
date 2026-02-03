@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Welcome to the Internship Calculator!" << endl;
+    cout << "Welcome to the Simple Calculator!" << endl;
 
     double num1, num2, result;
     char op;
@@ -43,3 +43,4 @@ int main() {
 
     return 0;
 }
+
